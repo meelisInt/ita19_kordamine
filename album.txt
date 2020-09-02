@@ -7,7 +7,7 @@
 1000 Maniacs	Our Time in Eden	1992	If You Intend
 1000 Maniacs	Our Time in Eden	1992	I'm Not The Man
 1000 Maniacs	Our Time in Eden	1992	Jezebel
-1000 Maniacs	Our Time in Eden	1992	Noah's Dove
+1000 Maniacs	Our Time in Eden	1992    Noah's Dove
 1000 Maniacs	Our Time in Eden	1992	Stockton Gala Days
 1000 Maniacs	Our Time in Eden	1992	These Are Days
 1000 Maniacs	Our Time in Eden	1992	Tolerance
